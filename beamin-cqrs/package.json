@@ -1,5 +1,5 @@
 {
-  "name": "event-driven",
+  "name": "beamin-cqrs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,8 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "huelgo-monad": "^1.0.10",
-    "typescript": "^5.0.2"
+  "dependencies": {
+    "huelgo-monad": "^1.0.10"
   }
 }
