@@ -175,4 +175,4 @@
 
     - UseCase
         - Historical data가 정말 중요할 때 ex) 입,출금이력, 구매이력, HealthCare
-        - Read하는 부분, Update하는 부분을 나눠야 할때 Performance, 부하분산
+        - Read하는 부분, Update하는 부분을 나눠야 할때 Performance, 부하분산.
